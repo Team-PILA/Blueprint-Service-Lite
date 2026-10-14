@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "service": "",
+    "owner": "",
+    "date": "",
+    "stage": "To-Be",
+    "description": ""
+  },
+  "phases": [
+    {
+      "id": "F1",
+      "name": "",
+      "description": "",
+      "layers": {
+        "physicalEvidence": [],
+        "customerActions": [],
+        "frontstageInteractions": [],
+        "backstageActions": [],
+        "supportProcesses": [],
+        "systemsTools": []
+      }
+    }
+  ]
+}
